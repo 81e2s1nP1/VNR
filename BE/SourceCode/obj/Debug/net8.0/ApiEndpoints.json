@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "SourceCode.Controllers.KhoaHocController",
+    "Method": "GetAllKhoaHocs",
+    "RelativePath": "api/KhoaHoc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SourceCode.Controllers.MonHocController",
+    "Method": "GetAllMonHocs",
+    "RelativePath": "api/MonHoc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SourceCode.Controllers.MonHocController",
+    "Method": "GetMonHocsByKhoaHocID",
+    "RelativePath": "api/MonHoc/{khoaHocID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "khoaHocID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

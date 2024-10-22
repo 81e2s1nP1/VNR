@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\services\\khoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:services\\khoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\services\\monhocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:services\\monhocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\iservices\\ikhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:iservices\\ikhoahocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\iservices\\imonhocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:iservices\\imonhocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\models\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:models\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\dbcontext\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:dbcontext\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|d:\\c sharp\\vnr_internship\\be\\sourcecode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED3BBAD-AC0B-4D57-9C94-5220B5AFFABF}|SourceCode.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhoaHocController.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Controllers\\KhoaHocController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhoaHocController.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Controllers\\KhoaHocController.cs",
+              "RelativeToolTip": "Controllers\\KhoaHocController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:41:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:22:50.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:15:44.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonHocController.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Controllers\\MonHocController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonHocController.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Controllers\\MonHocController.cs",
+              "RelativeToolTip": "Controllers\\MonHocController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:14:16.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonHocService.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Services\\MonHocService.cs",
+              "RelativeDocumentMoniker": "Services\\MonHocService.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Services\\MonHocService.cs",
+              "RelativeToolTip": "Services\\MonHocService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:12:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMonHocService.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\IServices\\IMonHocService.cs",
+              "RelativeDocumentMoniker": "IServices\\IMonHocService.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\IServices\\IMonHocService.cs",
+              "RelativeToolTip": "IServices\\IMonHocService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:10:41.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T15:08:01.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Models\\MonHoc.cs",
+              "RelativeDocumentMoniker": "Models\\MonHoc.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Models\\MonHoc.cs",
+              "RelativeToolTip": "Models\\MonHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:59:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKhoaHocService.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\IServices\\IKhoaHocService.cs",
+              "RelativeDocumentMoniker": "IServices\\IKhoaHocService.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\IServices\\IKhoaHocService.cs",
+              "RelativeToolTip": "IServices\\IKhoaHocService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:41:37.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhoaHocService.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Services\\KhoaHocService.cs",
+              "RelativeDocumentMoniker": "Services\\KhoaHocService.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Services\\KhoaHocService.cs",
+              "RelativeToolTip": "Services\\KhoaHocService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:41:50.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseManagementContext.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\DBContext\\CourseManagementContext.cs",
+              "RelativeDocumentMoniker": "DBContext\\CourseManagementContext.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\DBContext\\CourseManagementContext.cs",
+              "RelativeToolTip": "DBContext\\CourseManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:02:11.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Models\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "Models\\KhoaHoc.cs",
+              "ToolTip": "D:\\C Sharp\\VNR_InternShip\\BE\\SourceCode\\Models\\KhoaHoc.cs",
+              "RelativeToolTip": "Models\\KhoaHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:00:25.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
